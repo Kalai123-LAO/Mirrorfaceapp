@@ -5,3 +5,4 @@ Author: Kalaivani
 1, can add profile pic
 2, can add personal profile details
 3, upload (image, vedio)
+4, Adding Status feature

@@ -6,3 +6,4 @@ Author: Kalaivani
 2, can add personal profile details
 3, upload (image, vedio)
 4, Adding Status feature
+5, Adding messenger Feature
